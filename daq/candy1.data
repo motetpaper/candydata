@@ -1,0 +1,36 @@
+candy1.data
+
+This is the data dictionary for: candy1.csv.
+
+Three (3) columns representing the
+color counts of chocolate-covered
+peanut butter lentils called
+Reese's Pieces.
+
+Each row represents a theater box
+of Reese's Pieces.
+
+There are 12 boxes in this dataset.
+
+These values were counted twice,
+then written down for data entry.
+
+The data entry values will be verified shortly.
+
+**HEADERS**
+
+column 1
+brown (W),
+
+column 2
+yellow (Y),
+
+column 3
+orange (N),
+
+
+**SAMPLE ROW**
+30,30,70
+
+In other words, there are 30 brown, 30 yellow, and 70 orange.
+
